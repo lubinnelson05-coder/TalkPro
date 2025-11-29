@@ -1,8 +1,6 @@
 # TalkPro
 TalkPro est une application innovante qui met en relation des professionnels techniques, des institutions et des clients qui recherchent un service à proximité.
-
 L’objectif est simple : permettre aux clients de trouver rapidement un professionnel fiable dans leur zone ou quartier, et offrir aux professionnels et institutions une plateforme moderne pour proposer leurs services.
-
 
 # Membres du groupe
 - Duverno Lubin
@@ -15,14 +13,13 @@ L’objectif est simple : permettre aux clients de trouver rapidement un profess
 # Must have
 
 - [x] L'utilisateur peut créer un compte et se connecter afin d'accéder à l'application.
-- [x] L’utilisateur peut recevoir une notification lorsqu’un incident survient.
-- [x] L’utilisateur peut visualiser les alertes sur une carte interactive, avec des codes couleur pour distinguer les types d'incidents.
-- [x] L’utilisateur peut consulter une liste des alertes récentes envoyées par d’autres membres de la communauté.
-- [x] L’utilisateur peut accéder à une page contenant ses informations importantes (numéros de telephone, hôpital, ambulance, protection civile, etc.).
-- [x] L’utilisateur peut lire une section conseils de sécurité pour apprendre à réduire les risques.
-- [x] L’utilisateur peut lire une section decrivant l'application
+- [x] L’utilisateur(Professionnels techniques et Institutions)  peut recevoir une notification lorsqu’un client demande un service.
+- [x] L’utilisateur peut visualiser tous nos services proposés.
+- [x] L’utilisateur peut consulter une liste de Professionnels.
+- [x] L’utilisateur peut accéder à une page contenant ses informations importantes (numéros de telephone,email,ID, etc.).
+- [x] L’utilisateur (Professionnel) doit remplir la page d'identification de son profil professionnel sur l'application
 - [x] L'utilisateur peut se deconnecter de l'application
-- [ ] L'utilisateur peut supprimer son compte
+- [x] L'utilisateur peut demander d'aide ou signaler un Probleme.
 
 # Maybe
 
